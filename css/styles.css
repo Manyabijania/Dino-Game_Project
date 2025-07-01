@@ -1,0 +1,17 @@
+body {
+  font-family: sans-serif;
+}
+#frame {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 80vh;
+}
+#canva {
+  border: 1px solid black;
+}
+.press-start-2p-regular {
+  font-family: "Press Start 2P", system-ui;
+  font-weight: 400;
+  font-style: normal;
+}
