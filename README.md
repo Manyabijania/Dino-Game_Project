@@ -1,6 +1,8 @@
 # Dino-Game_Project
 This is a simple 2D endless runner game inspired by the classic Google Chrome Dino game. Built using **HTML**, **CSS**, and **JavaScript (ES6 modules)**, the player controls a dinosaur that must jump over incoming cacti to survive.
 
+**Check out the live app here:**  [Preview Link](https://j3ghtw.csb.app/)
+
 ## Features
 
 - Dino runs automatically
